@@ -15,7 +15,7 @@ Until this error is resolved, I'll manage my profile README in this repository.
 <table>
   <tr>
     <td><a href="https://www.credly.com/badges/6332a8ca-8fcd-43c5-87e3-690b2eeeebee"><img src="https://github.com/alexandertodorovic/aboutmealex/blob/main/githubfoundations.png" alt="GitHub Foundations" width="100"/></a></td>
-    <td><a href="https://www.credly.com/earner/earned/badge/aa6e3970-40bb-4dbc-b631-3c5a012c9358"><img src="https://github.com/alexandertodorovic/aboutmealex/blob/main/azurefundamentals.png" alt="Azure Fundamentals" width="100"/></a></td>
+    <td><a href="https://www.credly.com/badges/aa6e3970-40bb-4dbc-b631-3c5a012c9358"><img src="https://github.com/alexandertodorovic/aboutmealex/blob/main/azurefundamentals.png" alt="Azure Fundamentals" width="100"/></a></td>
     <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/AlexanderTodorovic-6334/33C01FE4244BEEC?sharingId=7C394C9A7040B629"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Azure AI Engineer Associate" width="100"/></a></td>
     <td><a href="https://learn.microsoft.com/api/credentials/share/en-us/AlexanderTodorovic-6334/BDFA9865BB69651B?sharingId=7C394C9A7040B629"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Data Fundamentals" width="100"/></a></td>
     <td><a href="https://learn.microsoft.com/en-us/users/alexandertodorovic-6334/credentials/7569d29a0a7566bd"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure AI Fundamentals" width="100"/></a></td>    
